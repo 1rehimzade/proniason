@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\Pronia\ProniaNihat\ProniaNihat\obj\Debug\net6.0\ProniaNihat.RazorAssemblyInfo.cs
